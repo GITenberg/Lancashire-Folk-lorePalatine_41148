@@ -1,0 +1,33 @@
+_repo: Lancashire-Folk-lorePalatine_41148
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Harland, John
+    birthdate: 1806
+    deathdate: 1868
+    gutenberg_agent_id: '41005'
+    url: http://www.gutenberg.org/2009/agents/41005
+  - agent_name: Wilkinson, Thomas Turner
+    alias: Wilkinson, T. T. (Thomas Turner)
+    deathdate: 1874
+    gutenberg_agent_id: '41006'
+    url: http://www.gutenberg.org/2009/agents/41006
+description: ''
+gutenberg_issued: '2012-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41148'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- England -- Lancashire'
+- !lcc 'GR'
+- !lcsh 'Lancashire (England) -- Social life and customs'
+title: "Lancashire Folk-lore\r\nIllustrative of the Superstitious Beliefs and Practices,\
+  \ Local Customs and Usages of the People of the County Palatine"
+url: http://www.gutenberg.org/ebooks/41148
